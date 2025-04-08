@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abdulsalam Mohammad Ahyaf - Software Engineer</title>
+    <title>Abdulsalam Mohammad Ahyaf -  Software Engineering</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="style1.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -70,7 +70,7 @@
 <body>
     <header>
         <h1>Abdulsalam Mohammad Ahyaf</h1>
-        <p>Software Engineer | App DEV, Flutter DEV, Wep DEV, React, UI/UX</p>
+        <p> Software Engineering | App DEV, Flutter DEV, Wep DEV, React, UI/UX</p>
     </header>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -177,7 +177,7 @@
     </main>
 
     <footer>
-        <p>© 2025 Abdulsalam Mohammad Ahyaf</p>
+        <p><a href="https://github.com/Salaam-8/cv" target="_blank"><i class="fab fa-github"></i> © 2025 Abdulsalam Mohammad Ahyaf </a></p></p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
